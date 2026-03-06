@@ -20,6 +20,7 @@
 <img src="networkplus.png" width="120"/>
 <img src="securityplus.png" width="120"/>
 <img src="az900.png" width="120"/>
+ 
 </p>
 
 CompTIA Network+  
