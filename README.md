@@ -17,7 +17,7 @@ CIS Student | Cybersecurity & IT | Network+ | Security+ | AZ-900 | Splunk
 <h2>📜 Certifications</h2>
 
 <ul>
-<li>CompTIA Network+</li>
+<li>CompTIA Network+</li>https://www.credly.com/badges/8b6c6e6e-2775-4624-bc47-eca9bd24e630/public_url
 <li>CompTIA Security+</li>
 <li>Microsoft AZ-900</li>
 <li>Splunk Core Certified User</li>
