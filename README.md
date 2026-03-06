@@ -1,13 +1,13 @@
 # Hi, I'm Siraj Mushtaq 👋
 
-**CIS Student | Cybersecurity & IT | Network+ | Security+ | AZ-900 | Splunk**
+**CIS Student | Cybersecurity & IT | Network+ | Security+ | AZ-900 | SOC & Cloud Security**
 
 ---
 
 ## 👨‍💻 Cybersecurity Projects
 
 • Active Directory Home Lab  
-• SIEM Log Monitoring Lab (Splunk)  
+• SIEM Log Monitoring Lab  
 • Network+ Packet Tracer Labs  
 • Linux Security Lab  
 • Help Desk Troubleshooting Simulation  
@@ -16,17 +16,25 @@
 
 ## 🧠 Certifications
 
-<p align="left">
-<img src="networkplus.png" width="120"/>
-<img src="securityplus.png" width="120"/>
-<img src="az900.png" width="120"/>
- 
+<p>
+<img src="netplus.png" width="110"/>
+<img src="secplus.png" width="110"/>
+<img src="az900.png" width="110"/>
 </p>
 
 CompTIA Network+  
 CompTIA Security+  
 Microsoft AZ-900  
- 
+
+---
+
+## 📚 Currently Learning
+
+• SIEM Fundamentals  
+• Active Directory Security  
+• Linux for Cybersecurity  
+• Network Security Monitoring  
+
 ---
 
 ## 🎯 Career Goal
