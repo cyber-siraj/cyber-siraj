@@ -6,12 +6,12 @@
 
 ## 👨‍💻 Cybersecurity Projects
 
-• Active Directory Home Lab  
-• SIEM Log Monitoring Lab  
-• Network+ Packet Tracer Labs  
-• Linux Security Lab  
-• Help Desk Troubleshooting Simulation  
+## Cybersecurity Projects
 
+• [Active Directory Help Desk Lab](https://github.com/cyber-siraj/active-directory-helpdesk-lab)
+• SIEM Log Monitoring Lab (In Progress)
+• Linux Security Lab (Planned)
+• Network Packet Analysis Lab (Planned)
 ---
 
 ## 🧠 Certifications
