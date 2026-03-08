@@ -6,9 +6,6 @@
 
 ## 👨‍💻 Cybersecurity Projects
 
-## Cybersecurity Projects
-
-## Cybersecurity Projects
 
 • [Active Directory Help Desk Lab](https://github.com/cyber-siraj/active-directory-helpdesk-lab)
 
