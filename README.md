@@ -49,9 +49,9 @@
 
 ## 🎯 Career Focus
 
-Aspiring **IT Support / Help Desk / IAM Analyst** focused on identity security, user access management, and enterprise authentication systems.  
+Aspiring IT Support / Help Desk / IAM Analyst focused on identity security, user access management, and enterprise authentication systems.  
 
-Currently building hands-on experience in **Active Directory, Entra ID, and access governance**, while developing strong troubleshooting and support skills for real-world IT environments.
+Currently building hands-on experience in Active Directory, Entra ID, and access governance, while developing strong troubleshooting and support skills for real-world IT environments.
 
 ---
 
