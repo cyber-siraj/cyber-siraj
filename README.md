@@ -11,10 +11,10 @@ CIS Student | IT & Identity and Access Management (IAM) | SC-300 (In Progress) |
 
 • Enterprise Network Project (In Progress)
 
+• Identity & Access Management Project (Planned)
 
-• Linux Security Lab (Planned)
 
-• Network Packet Analysis Lab (Planned)
+
 ## 🧠 Certifications
 
 <p>
@@ -26,6 +26,7 @@ CIS Student | IT & Identity and Access Management (IAM) | SC-300 (In Progress) |
 CompTIA Network+  
 CompTIA Security+  
 Microsoft AZ-900  
+Microsoft SC-300 (In Progress)
 
 ---
 
@@ -41,7 +42,7 @@ Microsoft AZ-900
 
 ## 🎯 Career Goal
 
-Aspiring IAM / Security Operations Analyst focused on identity security, access control, and enterprise authentication systems.
+Aspiring IT / IAM Analyst focused on identity security, user access management, and enterprise authentication systems.
 
 ---
 
