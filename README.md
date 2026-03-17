@@ -1,6 +1,6 @@
 # Hi, I'm Siraj Mushtaq 👋
 
-**CIS Student | Cybersecurity & IT | Network+ | Security+ | AZ-900 | SOC & Cloud Security**
+CIS Student | IT & Identity and Access Management (IAM) | SC-300 (In Progress) | Network+ | Security+ | AZ-900
 
 ---
 
@@ -9,7 +9,8 @@
 
 • [Active Directory Help Desk Lab](https://github.com/cyber-siraj/active-directory-helpdesk-lab)
 
-• SIEM Log Monitoring Lab (In Progress)
+• Enterprise Network Project (In Progress)
+
 
 • Linux Security Lab (Planned)
 
@@ -30,16 +31,17 @@ Microsoft AZ-900
 
 ## 📚 Currently Learning
 
-• SIEM Fundamentals  
-• Active Directory Security  
-• Linux for Cybersecurity  
-• Network Security Monitoring  
+• Microsoft Entra ID (Azure AD)
+• Role-Based Access Control (RBAC)
+• Multi-Factor Authentication (MFA)
+• Conditional Access Policies
+• Network Security Monitoring
 
 ---
 
 ## 🎯 Career Goal
 
-Aspiring **Security Operations Center (SOC) Analyst** with a strong foundation in networking, threat detection, and cloud security.
+Aspiring IAM / Security Operations Analyst focused on identity security, access control, and enterprise authentication systems.
 
 ---
 
