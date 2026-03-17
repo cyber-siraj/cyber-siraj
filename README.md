@@ -1,18 +1,35 @@
 # Hi, I'm Siraj Mushtaq 👋
 
-CIS Student | IT & Identity and Access Management (IAM) | SC-300 (In Progress) | Network+ | Security+ | AZ-900
+**CIS Student | Identity & Access Management (IAM) | IT Support & Security
 
 ---
 
-## 👨‍💻 Cybersecurity Projects
+## 🔐 IAM & Cybersecurity Projects
 
+### 🖥️ Active Directory Help Desk Lab
+- Simulated a real-world IT support environment using Active Directory  
+- Managed user accounts (create, reset, unlock, disable)  
+- Resolved help desk ticket scenarios and troubleshooting tasks  
+- Gained hands-on experience with identity lifecycle management  
 
-• [Active Directory Help Desk Lab](https://github.com/cyber-siraj/active-directory-helpdesk-lab)
+### 🌐 Enterprise Network Project (In Progress)
+- Designed a segmented network using VLANs, DHCP, and DNS  
+- Built structured enterprise network architecture and communication flow  
 
-• Enterprise Network Project (In Progress)
+### 🔑 IAM Lab (Planned)
+- Microsoft Entra ID (Azure AD) environment  
+- Role-Based Access Control (RBAC)  
+- Multi-Factor Authentication (MFA)  
+- Conditional Access Policies  
+- Identity Governance and lifecycle management  
 
-• Identity & Access Management Project (Planned)
+### ⚡ PowerShell IAM Automation Project (Planned)
+- Automate user provisioning and deprovisioning workflows  
+- Script bulk user creation and role assignments  
+- Automate password resets and account unlock processes  
+- Integrate with Active Directory and Entra ID  
 
+---
 
 
 ## 🧠 Certifications
@@ -23,26 +40,18 @@ CIS Student | IT & Identity and Access Management (IAM) | SC-300 (In Progress) |
 <img src="az900.png" width="110"/>
 </p>
 
-CompTIA Network+  
-CompTIA Security+  
-Microsoft AZ-900  
-Microsoft SC-300 (In Progress)
+- CompTIA Network+  
+- CompTIA Security+  
+- Microsoft Azure Fundamentals (AZ-900)  
+- Microsoft Identity & Access Administrator (SC-300) — *In Progress*  
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Career Focus
 
-• Microsoft Entra ID (Azure AD)
-• Role-Based Access Control (RBAC)
-• Multi-Factor Authentication (MFA)
-• Conditional Access Policies
-• Network Security Monitoring
+Aspiring **IT Support / Help Desk / IAM Analyst** focused on identity security, user access management, and enterprise authentication systems.  
 
----
-
-## 🎯 Career Goal
-
-Aspiring IT / IAM Analyst focused on identity security, user access management, and enterprise authentication systems.
+Currently building hands-on experience in **Active Directory, Entra ID, and access governance**, while developing strong troubleshooting and support skills for real-world IT environments.
 
 ---
 
