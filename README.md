@@ -6,7 +6,7 @@
 
 ## 🔐 IAM & Cybersecurity Projects
 
-### 🖥️ Active Directory Help Desk Lab(https://github.com/cyber-siraj/active-directory-helpdesk-lab)
+### 🖥️ [Active Directory Help Desk Lab](https://github.com/cyber-siraj/active-directory-helpdesk-lab)
 - Simulated a real-world IT support environment using Active Directory  
 - Managed user accounts (create, reset, unlock, disable)  
 - Resolved help desk ticket scenarios and troubleshooting tasks  
