@@ -12,7 +12,7 @@
 - Resolved help desk ticket scenarios and troubleshooting tasks  
 - Gained hands-on experience with identity lifecycle management  
 
-### 🌐 Enterprise Network Project (In Progress)
+### 🌐 [Enterprise Network Project](https://github.com/cyber-siraj/Enterprise-Network-Lab)
 - Designed a segmented network using VLANs, DHCP, and DNS  
 - Built structured enterprise network architecture and communication flow  
 
