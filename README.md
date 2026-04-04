@@ -16,7 +16,7 @@
 - Designed a segmented network using VLANs, DHCP, and DNS  
 - Built structured enterprise network architecture and communication flow  
 
-### 🔑 IAM Lab (Planned)
+### 🔑 [IAM Lab](https://github.com/cyber-siraj/IAM-Lab) 
 - Microsoft Entra ID (Azure AD) environment  
 - Role-Based Access Control (RBAC)  
 - Multi-Factor Authentication (MFA)  
